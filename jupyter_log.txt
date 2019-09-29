@@ -1,0 +1,533 @@
+[I 00:57:15.849 NotebookApp] The port 9876 is already in use, trying another port.
+[I 00:57:15.853 NotebookApp] Serving notebooks from local directory: /home/ueno/pytorch-ntm
+[I 00:57:15.853 NotebookApp] The Jupyter Notebook is running at:
+[I 00:57:15.853 NotebookApp] http://(kobe or 127.0.0.1):9877/
+[I 00:57:15.853 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 01:16:08.149 NotebookApp] received signal 15, stopping
+[I 01:16:08.150 NotebookApp] Shutting down 0 kernels
+[I 01:16:18.697 NotebookApp] Serving notebooks from local directory: /home/ueno/pytorch-ntm
+[I 01:16:18.698 NotebookApp] The Jupyter Notebook is running at:
+[I 01:16:18.698 NotebookApp] http://(kobe or 127.0.0.1):9876/
+[I 01:16:18.698 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 01:16:25.993 NotebookApp] Kernel started: 45172bf1-9c3f-4ca2-b661-c40cbc82a5eb
+[I 01:16:26.364 NotebookApp] Adapting to protocol v5.1 for kernel 45172bf1-9c3f-4ca2-b661-c40cbc82a5eb
+[I 01:18:26.050 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:18:38.235 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:18:53.967 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:18:59.955 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:20:07.297 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:21:08.683 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:21:30.341 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:21:57.055 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:22:26.016 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:24:05.085 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:24:11.147 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:24:14.751 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:24:17.428 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:24:26.015 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:25:05.466 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:25:28.467 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:26:26.445 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:26:55.379 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:27:10.715 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:27:27.041 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:28:26.446 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:29:31.184 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:29:47.231 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:30:08.428 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:30:26.440 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:30:36.319 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:30:49.834 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:32:26.465 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:32:36.587 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:34:26.452 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:34:28.648 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:34:32.286 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:36:45.924 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:36:59.925 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:37:56.339 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:38:07.152 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:38:11.643 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:38:18.876 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:38:26.430 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:41:24.680 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:42:26.493 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:44:22.100 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:44:26.462 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:44:42.721 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:45:00.165 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:46:25.182 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:57:43.125 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:58:03.806 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:58:09.855 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 01:58:36.453 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:00:36.478 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:01:14.000 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:01:23.075 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:01:42.996 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:02:36.478 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:04:41.807 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:05:02.378 NotebookApp] Saving file at /test_myfunc.ipynb
+[W 02:22:26.365 NotebookApp] WebSocket ping timeout after 119877 ms.
+[I 02:22:31.369 NotebookApp] Starting buffering for 45172bf1-9c3f-4ca2-b661-c40cbc82a5eb:3eaf564b21bd4d48ab2e0229225030af
+[I 02:36:58.987 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:37:02.721 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:37:04.274 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:37:04.878 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:37:11.667 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:37:46.697 NotebookApp] Kernel interrupted: 45172bf1-9c3f-4ca2-b661-c40cbc82a5eb
+[I 02:37:52.643 NotebookApp] Kernel interrupted: 45172bf1-9c3f-4ca2-b661-c40cbc82a5eb
+[I 02:37:54.114 NotebookApp] Kernel interrupted: 45172bf1-9c3f-4ca2-b661-c40cbc82a5eb
+[I 02:37:54.273 NotebookApp] Kernel interrupted: 45172bf1-9c3f-4ca2-b661-c40cbc82a5eb
+[I 02:37:54.459 NotebookApp] Kernel interrupted: 45172bf1-9c3f-4ca2-b661-c40cbc82a5eb
+[I 02:37:55.045 NotebookApp] Kernel interrupted: 45172bf1-9c3f-4ca2-b661-c40cbc82a5eb
+[I 02:37:55.223 NotebookApp] Kernel interrupted: 45172bf1-9c3f-4ca2-b661-c40cbc82a5eb
+[I 02:38:03.858 NotebookApp] Kernel shutdown: 45172bf1-9c3f-4ca2-b661-c40cbc82a5eb
+[W 02:38:07.441 NotebookApp] 404 GET /api/kernels/45172bf1-9c3f-4ca2-b661-c40cbc82a5eb/channels?session_id=3eaf564b21bd4d48ab2e0229225030af (172.30.27.168): Kernel does not exist: 45172bf1-9c3f-4ca2-b661-c40cbc82a5eb
+[W 02:38:07.446 NotebookApp] 404 GET /api/kernels/45172bf1-9c3f-4ca2-b661-c40cbc82a5eb/channels?session_id=3eaf564b21bd4d48ab2e0229225030af (172.30.27.168) 5.88ms referer=None
+[W 02:38:11.475 NotebookApp] Replacing stale connection: 45172bf1-9c3f-4ca2-b661-c40cbc82a5eb:3eaf564b21bd4d48ab2e0229225030af
+[I 02:38:19.122 NotebookApp] Kernel started: 695340f9-7b36-497a-8917-4e647fe7c527
+[I 02:38:19.488 NotebookApp] Adapting to protocol v5.1 for kernel 695340f9-7b36-497a-8917-4e647fe7c527
+[I 02:39:11.415 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:39:29.168 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:39:47.462 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:39:56.371 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:40:45.429 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:40:52.267 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:41:17.808 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:42:19.169 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:42:49.889 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:43:31.727 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:43:55.608 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:44:19.151 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:45:17.100 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:46:19.189 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:46:21.789 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:48:19.163 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:48:32.521 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:48:55.415 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:50:19.158 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:51:06.123 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:52:03.558 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:52:15.620 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:54:32.673 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:55:27.140 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 02:56:19.593 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 03:02:19.596 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 03:02:38.782 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 03:03:29.735 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 03:03:36.189 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 03:03:42.653 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 03:04:13.034 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 03:04:19.574 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 03:05:23.024 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 03:05:54.674 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 03:07:26.435 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 03:07:32.118 NotebookApp] Saving file at /test_myfunc.ipynb
+[W 03:09:19.489 NotebookApp] WebSocket ping timeout after 119988 ms.
+[I 03:09:24.492 NotebookApp] Starting buffering for 695340f9-7b36-497a-8917-4e647fe7c527:f3203921ec904a82932940f23718e729
+[I 12:31:00.629 NotebookApp] Adapting to protocol v5.1 for kernel 695340f9-7b36-497a-8917-4e647fe7c527
+[I 12:31:00.629 NotebookApp] Restoring connection for 695340f9-7b36-497a-8917-4e647fe7c527:f3203921ec904a82932940f23718e729
+[I 12:32:10.651 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:38:16.669 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:38:20.962 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:38:50.717 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:40:16.667 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:42:16.660 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:44:20.468 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:45:20.567 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:45:38.607 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:46:09.700 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:46:20.444 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:46:29.913 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:48:00.670 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:48:20.455 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:48:27.145 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:48:29.031 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:48:38.677 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:48:47.873 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:48:52.340 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:50:27.603 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:53:07.821 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:53:59.365 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:55:52.932 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:56:19.508 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:57:58.278 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:58:24.022 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:58:34.967 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 12:58:35.658 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:00:34.987 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:08:35.895 NotebookApp] Saving file at /test_myfunc.ipynb
+[W 13:11:30.632 NotebookApp] WebSocket ping timeout after 119939 ms.
+[I 13:11:35.635 NotebookApp] Starting buffering for 695340f9-7b36-497a-8917-4e647fe7c527:f3203921ec904a82932940f23718e729
+[I 13:26:52.068 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:37:31.388 NotebookApp] Adapting to protocol v5.1 for kernel 695340f9-7b36-497a-8917-4e647fe7c527
+[I 16:37:31.388 NotebookApp] Restoring connection for 695340f9-7b36-497a-8917-4e647fe7c527:f3203921ec904a82932940f23718e729
+[I 16:39:20.138 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:41:20.135 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:42:24.134 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:43:35.619 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:44:41.873 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:45:08.184 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:45:20.127 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:48:54.080 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:49:19.305 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:53:20.137 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:55:20.137 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:55:40.815 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:56:06.629 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:57:13.873 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:57:20.131 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:58:32.770 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:58:33.585 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:58:50.632 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:59:10.954 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:59:20.139 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:59:25.425 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:59:54.402 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:01:20.132 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:03:20.222 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:03:33.619 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:03:54.129 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:03:59.678 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:04:02.460 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:05:18.141 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:07:20.136 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:10:48.198 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:11:40.541 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:13:40.549 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:15:23.842 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:15:40.538 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:16:11.782 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:17:40.545 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:17:46.531 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:18:11.205 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:18:25.685 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:19:01.879 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:19:38.825 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:21:40.554 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:24:07.150 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:24:11.678 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:24:55.178 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:25:27.870 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:25:40.549 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:26:09.546 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:27:35.155 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:27:40.549 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:27:42.872 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:28:23.341 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:29:40.553 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:31:26.716 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:31:40.544 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:33:40.566 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:35:40.562 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:36:05.442 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:37:30.686 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:37:40.548 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:39:40.565 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:43:40.559 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:47:01.107 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:47:40.563 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:49:40.565 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:51:08.866 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:51:40.557 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:52:00.013 NotebookApp] Saving file at /test_myfunc.ipynb
+[W 20:31:31.389 NotebookApp] WebSocket ping timeout after 119944 ms.
+[I 20:31:36.393 NotebookApp] Starting buffering for 695340f9-7b36-497a-8917-4e647fe7c527:f3203921ec904a82932940f23718e729
+[I 09:45:47.077 NotebookApp] Adapting to protocol v5.1 for kernel 695340f9-7b36-497a-8917-4e647fe7c527
+[I 09:45:47.078 NotebookApp] Restoring connection for 695340f9-7b36-497a-8917-4e647fe7c527:f3203921ec904a82932940f23718e729
+[W 10:24:17.080 NotebookApp] WebSocket ping timeout after 119708 ms.
+[I 10:24:22.085 NotebookApp] Starting buffering for 695340f9-7b36-497a-8917-4e647fe7c527:f3203921ec904a82932940f23718e729
+[I 10:34:32.755 NotebookApp] Adapting to protocol v5.1 for kernel 695340f9-7b36-497a-8917-4e647fe7c527
+[I 10:34:32.755 NotebookApp] Restoring connection for 695340f9-7b36-497a-8917-4e647fe7c527:f3203921ec904a82932940f23718e729
+[W 10:37:02.758 NotebookApp] WebSocket ping timeout after 119183 ms.
+[I 10:37:07.760 NotebookApp] Starting buffering for 695340f9-7b36-497a-8917-4e647fe7c527:f3203921ec904a82932940f23718e729
+[I 10:38:55.383 NotebookApp] Adapting to protocol v5.1 for kernel 695340f9-7b36-497a-8917-4e647fe7c527
+[I 10:38:55.383 NotebookApp] Restoring connection for 695340f9-7b36-497a-8917-4e647fe7c527:f3203921ec904a82932940f23718e729
+[W 13:15:55.384 NotebookApp] WebSocket ping timeout after 115191 ms.
+[I 13:16:00.388 NotebookApp] Starting buffering for 695340f9-7b36-497a-8917-4e647fe7c527:f3203921ec904a82932940f23718e729
+[I 15:37:49.511 NotebookApp] 302 GET / (172.30.134.93) 1.09ms
+[I 15:37:53.485 NotebookApp] 302 GET / (172.30.134.93) 0.98ms
+[I 14:23:10.659 NotebookApp] 302 GET / (172.30.143.7) 1.01ms
+[W 14:23:10.674 NotebookApp] Clearing invalid/expired login cookie username-kobe-data-ise-shibaura-it-ac-jp-9876
+[W 14:23:10.675 NotebookApp] Clearing invalid/expired login cookie username-kobe-data-ise-shibaura-it-ac-jp-9876
+[I 14:23:10.677 NotebookApp] 302 GET /tree? (172.30.143.7) 3.37ms
+[W 14:23:10.865 NotebookApp] 404 GET /apple-touch-icon-precomposed.png (172.30.143.7) 3.23ms referer=None
+[W 14:23:10.879 NotebookApp] 404 GET /apple-touch-icon.png (172.30.143.7) 3.25ms referer=None
+[I 14:23:13.169 NotebookApp] 302 POST /login?next=%2Ftree%3F (172.30.143.7) 2.49ms
+[I 14:23:17.583 NotebookApp] Adapting to protocol v5.1 for kernel 695340f9-7b36-497a-8917-4e647fe7c527
+[I 14:23:55.194 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:23:56.191 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:24:08.376 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:24:11.379 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:24:25.477 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:24:33.724 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:24:39.100 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:24:40.966 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:25:17.531 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:25:27.128 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:25:44.441 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:26:01.469 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:26:16.905 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:26:17.194 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:26:18.492 NotebookApp] Starting buffering for 695340f9-7b36-497a-8917-4e647fe7c527:3929d7361a214c1488c25db90d2a6d56
+[I 14:26:21.519 NotebookApp] Kernel shutdown: 695340f9-7b36-497a-8917-4e647fe7c527
+[I 14:26:24.159 NotebookApp] Kernel started: 3fb40ead-6c3b-4557-8332-ccc17e1a22aa
+[I 14:26:24.534 NotebookApp] Adapting to protocol v5.1 for kernel 3fb40ead-6c3b-4557-8332-ccc17e1a22aa
+[I 14:26:45.703 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:26:53.216 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:28:24.185 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:43:39.422 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:43:40.186 NotebookApp] Starting buffering for 3fb40ead-6c3b-4557-8332-ccc17e1a22aa:c2507675b4b14cf181ed726e79268c2e
+[I 14:43:42.048 NotebookApp] Shutting down on /api/shutdown request.
+[I 14:43:42.049 NotebookApp] Shutting down 1 kernel
+[I 14:43:42.351 NotebookApp] Kernel shutdown: 3fb40ead-6c3b-4557-8332-ccc17e1a22aa
+[I 15:22:09.213 NotebookApp] Writing notebook server cookie secret to /run/user/1006/jupyter/notebook_cookie_secret
+[I 15:22:09.863 NotebookApp] Serving notebooks from local directory: /home/ueno/pytorch-ntm
+[I 15:22:09.863 NotebookApp] The Jupyter Notebook is running at:
+[I 15:22:09.863 NotebookApp] http://(kobe or 127.0.0.1):9876/
+[I 15:22:09.863 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 15:22:13.649 NotebookApp] 302 GET / (172.30.142.235) 0.37ms
+[W 15:22:13.661 NotebookApp] Clearing invalid/expired login cookie username-kobe-data-ise-shibaura-it-ac-jp-9876
+[W 15:22:13.662 NotebookApp] Clearing invalid/expired login cookie username-kobe-data-ise-shibaura-it-ac-jp-9876
+[I 15:22:13.662 NotebookApp] 302 GET /tree? (172.30.142.235) 1.13ms
+[W 15:22:13.663 NotebookApp] Clearing invalid/expired login cookie username-kobe-data-ise-shibaura-it-ac-jp-9876
+[W 15:22:13.664 NotebookApp] Clearing invalid/expired login cookie username-kobe-data-ise-shibaura-it-ac-jp-9876
+[W 15:22:13.665 NotebookApp] Clearing invalid/expired login cookie username-kobe-data-ise-shibaura-it-ac-jp-9876
+[W 15:22:13.667 NotebookApp] Clearing invalid/expired login cookie username-kobe-data-ise-shibaura-it-ac-jp-9876
+[W 15:22:13.667 NotebookApp] Forbidden
+[W 15:22:13.667 NotebookApp] 403 GET /api/kernelspecs (172.30.142.235) 0.57ms referer=http://kobe.data.ise.shibaura-it.ac.jp:9876/tree?
+[I 15:22:18.686 NotebookApp] 302 POST /login?next=%2Ftree%3F (172.30.142.235) 0.71ms
+[I 15:22:23.436 NotebookApp] Kernel started: 6635f698-21e0-4c71-88e4-6881458f7583
+[I 15:22:23.984 NotebookApp] Adapting to protocol v5.1 for kernel 6635f698-21e0-4c71-88e4-6881458f7583
+[I 15:22:52.404 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:22:56.225 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:23:02.022 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:23:38.113 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:24:23.436 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:24:37.883 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:24:52.449 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:24:56.257 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:25:12.390 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:25:25.899 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:26:01.013 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:26:12.409 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:26:16.337 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:26:23.430 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:26:46.755 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:26:55.485 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:27:47.666 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:27:56.344 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:28:00.173 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:28:11.846 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:28:23.429 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:28:59.146 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:29:35.691 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:29:39.402 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:30:13.224 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:30:23.456 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:30:40.165 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:30:52.316 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:31:23.703 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:32:23.473 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:33:16.557 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:33:26.794 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:33:30.003 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:33:36.895 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:33:52.089 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:33:54.362 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:34:13.008 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:34:23.455 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:34:37.380 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:36:23.468 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:46:53.596 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:48:53.630 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:56:10.337 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:58:08.252 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:58:10.163 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 15:58:37.998 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:00:08.266 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:02:09.986 NotebookApp] Saving file at /test_myfunc.ipynb
+[W 16:06:23.986 NotebookApp] WebSocket ping timeout after 119472 ms.
+[I 16:06:28.989 NotebookApp] Starting buffering for 6635f698-21e0-4c71-88e4-6881458f7583:05805c157fcf4c9489d895c48d178255
+[I 16:26:01.668 NotebookApp] Adapting to protocol v5.1 for kernel 6635f698-21e0-4c71-88e4-6881458f7583
+[I 16:26:01.669 NotebookApp] Restoring connection for 6635f698-21e0-4c71-88e4-6881458f7583:05805c157fcf4c9489d895c48d178255
+[I 16:27:58.938 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:31:42.547 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:32:47.516 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:32:53.008 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:32:54.854 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:34:47.501 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:14:58.874 NotebookApp] Writing notebook server cookie secret to /run/user/1006/jupyter/notebook_cookie_secret
+[I 13:14:59.558 NotebookApp] Serving notebooks from local directory: /home/ueno/pytorch-ntm
+[I 13:14:59.558 NotebookApp] The Jupyter Notebook is running at:
+[I 13:14:59.558 NotebookApp] http://(kobe or 127.0.0.1):9876/
+[I 13:14:59.558 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 13:15:03.661 NotebookApp] 302 GET / (172.30.142.235) 0.37ms
+[W 13:15:03.662 NotebookApp] Clearing invalid/expired login cookie username-kobe-data-ise-shibaura-it-ac-jp-9876
+[W 13:15:03.671 NotebookApp] Clearing invalid/expired login cookie username-kobe-data-ise-shibaura-it-ac-jp-9876
+[W 13:15:03.671 NotebookApp] Clearing invalid/expired login cookie username-kobe-data-ise-shibaura-it-ac-jp-9876
+[W 13:15:03.672 NotebookApp] Clearing invalid/expired login cookie username-kobe-data-ise-shibaura-it-ac-jp-9876
+[W 13:15:03.672 NotebookApp] Forbidden
+[W 13:15:03.673 NotebookApp] 403 GET /api/kernelspecs (172.30.142.235) 0.56ms referer=http://kobe.data.ise.shibaura-it.ac.jp:9876/tree?
+[W 13:15:03.674 NotebookApp] Clearing invalid/expired login cookie username-kobe-data-ise-shibaura-it-ac-jp-9876
+[W 13:15:03.674 NotebookApp] Clearing invalid/expired login cookie username-kobe-data-ise-shibaura-it-ac-jp-9876
+[I 13:15:03.674 NotebookApp] 302 GET /tree? (172.30.142.235) 0.59ms
+[I 13:15:06.068 NotebookApp] 302 POST /login?next=%2Ftree%3F (172.30.142.235) 1.02ms
+[I 13:15:11.933 NotebookApp] Kernel started: e6374625-3daf-4e13-82ff-2ec3bbfbe851
+[I 13:15:12.412 NotebookApp] Adapting to protocol v5.1 for kernel e6374625-3daf-4e13-82ff-2ec3bbfbe851
+[I 13:15:28.088 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:17:11.937 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:17:51.301 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:19:11.925 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:19:22.177 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:19:33.008 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:19:33.867 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:20:09.076 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:20:45.121 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:20:50.489 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:21:11.907 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:21:58.246 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:22:27.923 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:22:37.074 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:22:50.927 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:23:11.911 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:23:12.956 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:23:15.523 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:24:44.804 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:25:11.908 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:26:04.736 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:26:07.374 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:26:09.612 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:27:11.931 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 13:31:12.948 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:02:06.014 NotebookApp] 302 GET /login?next=%2Ftree%3F (172.30.142.235) 0.43ms
+[W 14:09:12.413 NotebookApp] WebSocket ping timeout after 119966 ms.
+[I 14:09:17.417 NotebookApp] Starting buffering for e6374625-3daf-4e13-82ff-2ec3bbfbe851:af028c4a74ad4bb6b5f86fcfe0bc6967
+[I 14:26:59.489 NotebookApp] Adapting to protocol v5.1 for kernel e6374625-3daf-4e13-82ff-2ec3bbfbe851
+[I 14:26:59.489 NotebookApp] Restoring connection for e6374625-3daf-4e13-82ff-2ec3bbfbe851:af028c4a74ad4bb6b5f86fcfe0bc6967
+[I 14:27:08.911 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:27:39.331 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:28:11.045 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:28:26.521 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:28:41.832 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:30:26.518 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:31:17.786 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:31:27.227 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:31:44.337 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 14:32:26.889 NotebookApp] Saving file at /test_myfunc.ipynb
+[W 14:44:59.491 NotebookApp] WebSocket ping timeout after 119993 ms.
+[I 14:45:04.493 NotebookApp] Starting buffering for e6374625-3daf-4e13-82ff-2ec3bbfbe851:af028c4a74ad4bb6b5f86fcfe0bc6967
+[I 16:07:37.991 NotebookApp] Adapting to protocol v5.1 for kernel e6374625-3daf-4e13-82ff-2ec3bbfbe851
+[I 16:07:37.991 NotebookApp] Restoring connection for e6374625-3daf-4e13-82ff-2ec3bbfbe851:af028c4a74ad4bb6b5f86fcfe0bc6967
+[I 16:08:08.695 NotebookApp] Saving file at /test_myfunc.ipynb
+[W 16:26:07.995 NotebookApp] WebSocket ping timeout after 119932 ms.
+[I 16:26:12.996 NotebookApp] Starting buffering for e6374625-3daf-4e13-82ff-2ec3bbfbe851:af028c4a74ad4bb6b5f86fcfe0bc6967
+[I 16:31:49.447 NotebookApp] Adapting to protocol v5.1 for kernel e6374625-3daf-4e13-82ff-2ec3bbfbe851
+[I 16:31:49.447 NotebookApp] Restoring connection for e6374625-3daf-4e13-82ff-2ec3bbfbe851:af028c4a74ad4bb6b5f86fcfe0bc6967
+[I 16:31:57.169 NotebookApp] Kernel interrupted: e6374625-3daf-4e13-82ff-2ec3bbfbe851
+[I 16:32:06.402 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:32:06.982 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:32:09.806 NotebookApp] Starting buffering for e6374625-3daf-4e13-82ff-2ec3bbfbe851:af028c4a74ad4bb6b5f86fcfe0bc6967
+[I 16:32:12.351 NotebookApp] Kernel shutdown: e6374625-3daf-4e13-82ff-2ec3bbfbe851
+[I 16:32:15.478 NotebookApp] Kernel started: 8f0261e9-285e-4834-b958-1275fa8b4266
+[I 16:32:15.848 NotebookApp] Adapting to protocol v5.1 for kernel 8f0261e9-285e-4834-b958-1275fa8b4266
+[I 16:32:52.351 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:34:15.528 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:36:15.507 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:36:16.581 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:38:15.555 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:41:51.093 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:42:15.501 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:42:36.015 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 16:44:15.514 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:02:01.298 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:02:54.077 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:03:11.708 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:04:07.359 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:04:16.489 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:04:21.541 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:06:18.556 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:14:50.738 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:15:18.010 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:18:50.746 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:19:15.575 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:19:24.060 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:19:27.084 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:20:23.740 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:20:34.347 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:20:50.719 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:21:16.774 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:22:50.736 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:32:35.484 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:33:02.856 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:33:21.650 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:34:05.159 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:34:13.789 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:34:30.996 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:42:56.821 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:43:02.135 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:43:08.927 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:43:47.484 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:44:31.006 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:46:31.009 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:52:31.041 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:52:39.888 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:52:55.113 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:53:22.689 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:53:55.943 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 17:54:31.000 NotebookApp] Saving file at /test_myfunc.ipynb
+[W 18:03:45.850 NotebookApp] WebSocket ping timeout after 119875 ms.
+[I 18:03:50.853 NotebookApp] Starting buffering for 8f0261e9-285e-4834-b958-1275fa8b4266:a2f0ba08518d443c8ebf654208ff5fd8
+[I 18:18:46.474 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:19:20.487 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:19:27.844 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:19:29.626 NotebookApp] Adapting to protocol v5.1 for kernel 8f0261e9-285e-4834-b958-1275fa8b4266
+[I 18:19:29.627 NotebookApp] Restoring connection for 8f0261e9-285e-4834-b958-1275fa8b4266:a2f0ba08518d443c8ebf654208ff5fd8
+[I 18:19:43.118 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:20:04.923 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:20:07.585 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:20:16.132 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:20:20.307 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:22:20.326 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:23:11.352 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:24:01.367 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:24:20.324 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:24:25.250 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:24:33.777 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:24:55.686 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:25:01.492 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:25:43.567 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:25:58.520 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:26:02.667 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:26:20.319 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:26:37.734 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:28:02.997 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:28:20.325 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:28:59.233 NotebookApp] Saving file at /test_myfunc.ipynb
+[I 18:30:29.787 NotebookApp] Saving file at /test_myfunc.ipynb
+[W 18:32:59.630 NotebookApp] WebSocket ping timeout after 119911 ms.
+[I 18:33:04.632 NotebookApp] Starting buffering for 8f0261e9-285e-4834-b958-1275fa8b4266:a2f0ba08518d443c8ebf654208ff5fd8
+[I 21:31:58.756 NotebookApp] The port 9876 is already in use, trying another port.
+[I 21:31:58.760 NotebookApp] Serving notebooks from local directory: /home/ueno/ozawas_pytorch-ntm
+[I 21:31:58.760 NotebookApp] The Jupyter Notebook is running at:
+[I 21:31:58.760 NotebookApp] http://(kobe or 127.0.0.1):9877/
+[I 21:31:58.760 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 21:32:03.035 NotebookApp] interrupted
+Serving notebooks from local directory: /home/ueno/ozawas_pytorch-ntm
+0 active kernels
+The Jupyter Notebook is running at:
+http://(kobe or 127.0.0.1):9877/
+Shutdown this notebook server (y/[n])? [C 21:32:03.874 NotebookApp] received signal 2, stopping
+[I 21:32:03.875 NotebookApp] Shutting down 0 kernels
+[I 21:32:09.663 NotebookApp] The port 9876 is already in use, trying another port.
+[I 21:32:09.667 NotebookApp] Serving notebooks from local directory: /home/ueno/ozawas_pytorch-ntm
+[I 21:32:09.667 NotebookApp] The Jupyter Notebook is running at:
+[I 21:32:09.667 NotebookApp] http://(kobe or 127.0.0.1):9877/
+[I 21:32:09.667 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 21:32:52.037 NotebookApp] 302 GET / (172.21.37.31) 0.41ms
+[I 21:32:52.042 NotebookApp] 302 GET /tree? (172.21.37.31) 0.38ms
+[I 21:32:55.178 NotebookApp] 302 POST /login?next=%2Ftree%3F (172.21.37.31) 0.77ms
+[I 21:34:56.063 NotebookApp] 302 GET / (172.21.37.31) 0.29ms
+[I 21:34:58.239 NotebookApp] Shutting down on /api/shutdown request.
+[I 21:34:58.239 NotebookApp] Shutting down 0 kernels

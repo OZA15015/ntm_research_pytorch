@@ -9,6 +9,7 @@ import time
 import random
 import re
 import sys
+import os
 
 import attr
 import argcomplete
@@ -48,6 +49,14 @@ def init_seed(seed=None):
     np.random.seed(seed)
     torch.manual_seed(seed)
     random.seed(seed)
+    # added by myself on Jan 24t # added by myself on Jan 24th -----------
+    # 以下のseed値を固定した場合としない場合で結果を見てみたら変わっていないので関係ない。
+    torch.cuda.manual_seed(seed)
+    os.environ['PYTHONHASHSEED'] = str(seed)
+    # For CUDNN randomness is fixed
+    torch.backends.cudnn.deterministic = True
+    torch.backends.cudnn.benchmark = False
+    # --------------------------------------------------------------------
 
 
 def progress_clean():
@@ -84,7 +93,14 @@ def save_checkpoint(net, name, args, batch_num, losses, costs, seq_lengths):
 
 def clip_grads(net):
     """Gradient clipping to the range [10, 10]."""
+
+    # for param in net.parameters():
+    #     print(type(param.data), param.size())
+    # for param in net.parameters():
+    #     print(param.data)
     parameters = list(filter(lambda p: p.grad is not None, net.parameters()))
+    # print(parameters)
+    # quit()
     for p in parameters:
         p.grad.data.clamp_(-10, 10)
 
@@ -107,6 +123,7 @@ def train_batch(net, criterion, optimizer, X, Y):
     for i in range(outp_seq_len):
         y_out[i], _ = net()
 
+    # default criterion is BCELoss(Binary Cross Entropy Loss)
     loss = criterion(y_out, Y)
     loss.backward()
     clip_grads(net)
@@ -150,7 +167,7 @@ def evaluate(net, criterion, X, Y):
     cost = torch.sum(torch.abs(y_out_binarized - Y.data))
 
     result = {
-        'loss': loss.data[0],
+        'loss': loss.detach().item(),
         'cost': cost / batch_size,
         'y_out': y_out,
         'y_out_binarized': y_out_binarized,
